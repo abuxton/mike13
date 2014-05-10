@@ -18,3 +18,7 @@ Inspiration :
  * http://en.wikipedia.org/wiki/Project_Ragna_Rok
  * http://shadow-wars.webs.com/
  * http://www.delta-green.com/
+
+License :
+---------
+Released under the http://www.dbad-license.org/, 
