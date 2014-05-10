@@ -22,3 +22,9 @@ Inspiration :
 License :
 ---------
 Released under the http://www.dbad-license.org/, 
+
+Further Reading:
+----------------
+http://en.wikipedia.org/wiki/Markdown
+https://github.com/puppetlabs/showoff
+https://help.github.com/categories/20/articles
