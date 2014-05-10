@@ -13,8 +13,8 @@ The site will be produced in a mix of markdown to facilitate showoff presentatio
 
 
 Inspiration :
- *http://www.projektragnarok.co.uk/forum/viewforum.php?f=1 
- *http://en.wikipedia.org/wiki/Project_Ragna_Rok
- *http://shadow-wars.webs.com/
- *http://www.delta-green.com/
- *
+-------------
+ * http://www.projektragnarok.co.uk/forum/viewforum.php?f=1 
+ * http://en.wikipedia.org/wiki/Project_Ragna_Rok
+ * http://shadow-wars.webs.com/
+ * http://www.delta-green.com/
