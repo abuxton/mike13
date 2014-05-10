@@ -4,6 +4,9 @@ Introduction
 
 Majestic 13, Mic13 or MJ13 is an idea, encompassing inspiration from Cthulhu mythos and Delta Green, modern airsoft and Live Action Role Play.
 
-Majestic 13 is a modern day alternate world setting. Exploring sometimes corrupt some times deperate to survive entitys of human government and resistance. In a setting where the monsters are both human, and creations of our own pschology and legends, myths and fears.
+Majestic 13 is a modern day alternate world setting. Exploring sometimes corrupt and ome times plain deperate to survive entitys of human government and resistance. In a setting where the monsters are both human and creations of our own pschology, legends, myths and fears. Aliens, Ghouls Demons and corrupt agencies supposed to protect us are not just antagonists but may be thinly vailed allies, after all the eneny of my enemy is sometime syour only hope.
 
+The LARP system encompasses airsoft and physical combat system using LARP safe weapons. The rule system extends this with a call and effect based structure.
+
+Inspiration is derived from literature of H.P Lovecraft and the Cthulhu mythos with strong leanings to the Delta Green setting. In addition films, such as Dog soldiers, the Outpost and Hellboy.  Television series such as True Detectives, 24 and X-files.  
 
