@@ -7,11 +7,16 @@
   "feedback": false,
   "sections": [
 
-    "intro/intro.md",
-    "intro/primer.md",
+    "about/intro.md",
+    "about/.md",
+    
+    "background/"
+    
+    "character/"
 
+    "rules/"
 
-    "outro/further.md",
-    "outro/credits.md"
+    "about/acknowledgements.md",
+    "about/credits.md"
     ]
 }
