@@ -1,12 +1,22 @@
----
-layout: page
-title: Latest Posts
-description: "A simple and clean responsive Jekyll theme for words and photos."
-tags: [Jekyll, theme, themes, responsive, blog, minimalism]
----
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>mj13 - 'How do you stand against the shadows!'</title>
+	<meta name="generator" content="TextMate http://macromates.com/">
+	<meta name="author" content="">
+	<link rel="stylesheet" href="site/style/mj13.css" type="text/css" charset="utf-8">
+</head>
+<body>
+  <div id="maps"><a href="/">back</a><ul></ul></div>
+  <canvas id="viewport" width="800" height="600"></canvas>
+
+  <div id="dataset">Derived from Wikipedia’s <a href="http://en.wikipedia.org/wiki/List_of_countries_and_territories_by_land_borders">List of countries and territories by land borders</a></div>
+
+  <script src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+  <script src="site/lib/arbor.js"></script>
+  <script src="site/lib/mj13.js"></script>
+</body>
+</html>
