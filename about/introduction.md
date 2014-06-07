@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /intro/
 title: About Mike 13
 tags: [Mike 13,introduction,about]
 modified: 2014-06-08
