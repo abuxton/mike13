@@ -1,7 +1,7 @@
-title:            abuxton.github.io
-description:      abuxton, Adam Buxtons or the Digital Adepts home on Github.
-logo:             site-logo.png
-disqus_shortname: abuxton.github.io
+title:            Mike 13
+description:      A Delta Green inspired LARP, Live Airsoft Role Play!
+logo:             M13.png
+disqus_shortname: Mike 13
 search:           true
 # Your site's domain goes here. When working locally use localhost server leave blank
 # PS. If you set this wrong stylesheets and scripts won't load and most links will break.
@@ -14,14 +14,14 @@ owner:
   avatar:         gravater.jpg
   email:          buxton.adam@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        digitaladept
+  twitter:        
   facebook:
-  github:         abuxton
-  linkedin:       adambuxton
+  github:        
+  linkedin:       
   instagram:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
