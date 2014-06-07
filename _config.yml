@@ -33,7 +33,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about
+    url: /origin/about/intro.md
   - title: Articles
     url: /articles
   - title: Blog
