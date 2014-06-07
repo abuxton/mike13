@@ -5,7 +5,7 @@ title: About Mike 13
 tags: [Mike 13,introduction,about]
 modified: 2014-06-08
 image:
-  feature: m13-warroom.jpg
+  feature: m13-warroom-map.png
   credit: Dr Strange love
   creditlink: 
 ---
