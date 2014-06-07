@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-` "Nobody sees into the shadows, they choose to look into the light, and while distracted by the light they miss what hides in those shadows. We don't" - unnamed Delta operative` 
+ <quote>"Nobody sees into the shadows, they choose to look into the light, and while distracted by the light they miss what hides in those shadows. We don't" - unnamed Delta operative</quote> 
 
 Majestic 13, Mic13 or MJ13 is an idea, encompassing inspiration from Cthulhu mythos and Delta Green, modern airsoft and Live Action Role Play.
 
