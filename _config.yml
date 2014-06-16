@@ -34,10 +34,10 @@ bing_verify:
 links:
   - title: Intro
     url: about/introduction
-  - title: Articles
-    url: /articles
   - title: Blog
-    url: http://www.digitaladept.co.uk
+    url: /articles
+  - title: Wiki
+    url: https://github.com/abuxton/mike13/wiki
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
