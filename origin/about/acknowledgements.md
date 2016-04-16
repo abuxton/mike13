@@ -1,7 +1,0 @@
-Acknowledgements
-================
-Supporters
-----------
-
-Contributers
-------------
